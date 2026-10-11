@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Peugeot_5008"
+
+generations:
+  - name: "First Generation (T87)"
+    start_year: 2009
+    end_year: 2017
+    description: "A compact MPV on the PSA PF2 platform."
+  - name: "Second Generation (P87)"
+    start_year: 2017
+    end_year: 2024
+    description: "A seven-seat SUV on the EMP2 platform, the long version of the second-generation 3008."
+  - name: "Third Generation (P64)"
+    start_year: 2024
+    end_year: null
+    description: "On the STLA Medium platform, with mild-hybrid, plug-in hybrid and electric versions."
